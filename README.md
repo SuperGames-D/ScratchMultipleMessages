@@ -7,7 +7,7 @@ Made with python by SuperGames-
 
 ## How to use
 
-- Download the ScratchMultipleMessages.py file you can find in this repository
+- Download the [ScratchMultipleMessages.py](https://github.com/SuperGames-D/ScratchMultipleMessages/releases/download/v1.0/ScratchMultipleMessages.py) file
 - Install python in your device
 - Run the program
 - Then enter all the usernames you want to get the message count of and there you go!
